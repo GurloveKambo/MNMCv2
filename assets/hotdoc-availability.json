@@ -1,0 +1,37 @@
+{
+  "source": "https://www.hotdoc.com.au/medical-centres/mount-nelson-TAS-7007/mt-nelson-medical-centre/doctors",
+  "lastUpdated": "Seed data from HotDoc search snippet; enable GitHub Actions to refresh automatically",
+  "timezone": "Australia/Hobart",
+  "doctors": {
+    "Dr Jasmeen Kaur": {
+      "next": "Thu, 10:00 am",
+      "status": "seed",
+      "bookingUrl": "https://www.hotdoc.com.au/medical-centres/mount-nelson-TAS-7007/mt-nelson-medical-centre/doctors"
+    },
+    "Dr Harpreet Kaur": {
+      "next": "Thu, 12:10 pm",
+      "status": "seed",
+      "bookingUrl": "https://www.hotdoc.com.au/medical-centres/mount-nelson-TAS-7007/mt-nelson-medical-centre/doctors"
+    },
+    "Dr Huma Nadeem Iftikhar": {
+      "next": "Thu, 4:15 pm",
+      "status": "seed",
+      "bookingUrl": "https://www.hotdoc.com.au/medical-centres/mount-nelson-TAS-7007/mt-nelson-medical-centre/doctors"
+    },
+    "Dr Shea Phillip Thrift": {
+      "next": "19 May, 10:30 am",
+      "status": "seed",
+      "bookingUrl": "https://www.hotdoc.com.au/medical-centres/mount-nelson-TAS-7007/mt-nelson-medical-centre/doctors"
+    },
+    "Dr Abdul Ahmed Hussain": {
+      "next": "Check HotDoc",
+      "status": "not_found",
+      "bookingUrl": "https://www.hotdoc.com.au/medical-centres/mount-nelson-TAS-7007/mt-nelson-medical-centre/doctors"
+    },
+    "Dr Christopher Roy-Chowdhury": {
+      "next": "Check HotDoc",
+      "status": "not_found",
+      "bookingUrl": "https://www.hotdoc.com.au/medical-centres/mount-nelson-TAS-7007/mt-nelson-medical-centre/doctors"
+    }
+  }
+}
